@@ -18,7 +18,7 @@ import sys
 
 # Marqueurs à retirer. Pour être plus strict (sites mixtes comme Comick,
 # DeviantArt, GlobalComix...), ajouter "CONTENT_WARNING_MIXED".
-REMOVE = {"CONTENT_WARNING_NSFW"}
+REMOVE = {"CONTENT_WARNING_NSFW", "CONTENT_WARNING_MIXED"}
 
 # Adresse du dépôt filtré (là où index.pb sera publié).
 BASE = "https://raw.githubusercontent.com/nmakhtar77/extensions/repo"
