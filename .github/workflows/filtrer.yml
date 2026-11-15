@@ -1,0 +1,28 @@
+name: Filtrer NSFW
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  filtrer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: repo
+      - name: Récupérer la dernière version officielle
+        run: |
+          git remote add upstream https://github.com/keiyoushi/extensions.git
+          git fetch --depth 1 upstream repo
+          git checkout FETCH_HEAD -- .
+      - name: Retirer les extensions +18
+        run: python3 filter_nsfw.py
+      - name: Publier
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Index sans +18" || exit 0
+          git push origin HEAD:repo
