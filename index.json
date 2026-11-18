@@ -3163,9 +3163,9 @@
         "name": "MangaTek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatek",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-ar.mangatek-v1.6.14.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/f1d882a/tachiyomi-ar.mangatek-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-ar.mangatek-v1.6.14.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/f1d882a/tachiyomi-ar.mangatek-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -5368,9 +5368,9 @@
         "name": "MangaCloud",
         "packageName": "eu.kanade.tachiyomi.extension.en.mangacloud",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-en.mangacloud-v1.6.2.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/f1d882a/tachiyomi-en.mangacloud-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangacloud/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/02402ef/tachiyomi-en.mangacloud-v1.6.2.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/f1d882a/tachiyomi-en.mangacloud-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -7663,13 +7663,13 @@
         "name": "AnzManga",
         "packageName": "eu.kanade.tachiyomi.extension.es.anzmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.anzmanga-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/f1d882a/tachiyomi-es.anzmanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/anzmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b035310-1/tachiyomi-es.anzmanga-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/f1d882a/tachiyomi-es.anzmanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
