@@ -3784,20 +3784,20 @@
         "name": "Arven Scans",
         "packageName": "eu.kanade.tachiyomi.extension.en.arvenscansnet",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-0/tachiyomi-en.arvenscansnet-v1.6.1.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c09b174/tachiyomi-en.arvenscansnet-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/arvenscansnet/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-0/tachiyomi-en.arvenscansnet-v1.6.1.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c09b174/tachiyomi-en.arvenscansnet-v1.6.2.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106001",
-        "versionName": "1.6.1",
+        "versionCode": "106002",
+        "versionName": "1.6.2",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "640484333556017983",
             "name": "Arven Scans",
             "language": "en",
-            "homeUrl": "https://arvenscans.net"
+            "homeUrl": "https://arventoons.com"
           }
         ]
       },
@@ -5254,20 +5254,20 @@
         "name": "LuxManga",
         "packageName": "eu.kanade.tachiyomi.extension.en.luxmanga",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.luxmanga-v1.6.3.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c09b174/tachiyomi-en.luxmanga-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/luxmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-1/tachiyomi-en.luxmanga-v1.6.3.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c09b174/tachiyomi-en.luxmanga-v1.6.4.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106003",
-        "versionName": "1.6.3",
+        "versionCode": "106004",
+        "versionName": "1.6.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "9066204719461145317",
             "name": "LuxManga",
             "language": "en",
-            "homeUrl": "https://luxmanga.net"
+            "homeUrl": "https://luxmanhwa.com"
           }
         ]
       },
@@ -12319,13 +12319,13 @@
         "name": "InkStory",
         "packageName": "eu.kanade.tachiyomi.extension.ru.inkstory",
         "resources": {
-          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-ru.inkstory-v1.6.8.apk",
+          "apkUrl": "https://github.com/keiyoushi/extensions/releases/download/c09b174/tachiyomi-ru.inkstory-v1.6.9.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/inkstory/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/b4f9106-3/tachiyomi-ru.inkstory-v1.6.8.jar"
+          "jarUrl": "https://github.com/keiyoushi/extensions/releases/download/c09b174/tachiyomi-ru.inkstory-v1.6.9.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106008",
-        "versionName": "1.6.8",
+        "versionCode": "106009",
+        "versionName": "1.6.9",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
